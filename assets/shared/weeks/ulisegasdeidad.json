@@ -1,0 +1,26 @@
+{
+	"storyName": "Aethos but good",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"rotten-smoothie",
+			"orange",
+			[
+				255,
+				160,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 1"
+}
