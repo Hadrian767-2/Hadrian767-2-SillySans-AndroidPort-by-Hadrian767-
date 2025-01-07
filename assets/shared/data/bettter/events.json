@@ -1,0 +1,326 @@
+{
+    "song": {
+        "events": [
+            [
+                0,
+                [
+                    [
+                        "Camera Movement",
+                        "1",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                3701,
+                [
+                    [
+                        "Camera Bop",
+                        "4",
+                        "2"
+                    ]
+                ]
+            ],
+            [
+                15584,
+                [
+                    [
+                        "Camera Bop",
+                        "4",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                21818,
+                [
+                    [
+                        "Camera Bop",
+                        "2",
+                        "1.8"
+                    ]
+                ]
+            ],
+            [
+                45194,
+                [
+                    [
+                        "Camera Bop",
+                        "4",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                46558,
+                [
+                    [
+                        "Camera Bop",
+                        "4",
+                        "2.5"
+                    ]
+                ]
+            ],
+            [
+                71493,
+                [
+                    [
+                        "Camera Bop",
+                        "1",
+                        "2.2"
+                    ]
+                ]
+            ],
+            [
+                71688,
+                [
+                    [
+                        "Change Character",
+                        "0",
+                        "jon-infiel"
+                    ]
+                ]
+            ],
+            [
+                71688,
+                [
+                    [
+                        "Change Character",
+                        "2",
+                        "liz-infiel"
+                    ]
+                ]
+            ],
+            [
+                71688,
+                [
+                    [
+                        "Change Character",
+                        "1",
+                        "garfield-sad-2"
+                    ]
+                ]
+            ],
+            [
+                71688,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true, false, false, false",
+                        "0.7"
+                    ]
+                ]
+            ],
+            [
+                71688,
+                [
+                    [
+                        "Camera Flash",
+                        "-16777216",
+                        "camGame"
+                    ]
+                ]
+            ],
+            [
+                84155,
+                [
+                    [
+                        "Change Character",
+                        "0",
+                        "jon-negocio"
+                    ]
+                ]
+            ],
+            [
+                84155,
+                [
+                    [
+                        "Change Character",
+                        "2",
+                        "liz-negocio"
+                    ]
+                ]
+            ],
+            [
+                84155,
+                [
+                    [
+                        "Change Character",
+                        "1",
+                        "garfield-sadness"
+                    ]
+                ]
+            ],
+            [
+                84155,
+                [
+                    [
+                        "Change Stage Zoom",
+                        "true, false, false, false",
+                        "0.74"
+                    ]
+                ]
+            ],
+            [
+                84155,
+                [
+                    [
+                        "Camera Flash",
+                        "-16777216",
+                        "camGame"
+                    ]
+                ]
+            ],
+            [
+                96623,
+                [
+                    [
+                        "Camera Bop",
+                        "4",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                102857,
+                [
+                    [
+                        "Camera Bop",
+                        "2",
+                        "2.1"
+                    ]
+                ]
+            ],
+            [
+                102857,
+                [
+                    [
+                        "Change Character",
+                        "1",
+                        "garfield-sad-fondo"
+                    ]
+                ]
+            ],
+            [
+                102857,
+                [
+                    [
+                        "Camera Flash",
+                        "-16777216",
+                        "camGame"
+                    ]
+                ]
+            ],
+            [
+                126185,
+                [
+                    [
+                        "Change Character",
+                        "1",
+                        "garfield-sad-trans"
+                    ]
+                ]
+            ],
+            [
+                126282,
+                [
+                    [
+                        "Play Animation",
+                        "1",
+                        "idle"
+                    ]
+                ]
+            ],
+            [
+                127792,
+                [
+                    [
+                        "Change Scroll Speed",
+                        "true",
+                        "In"
+                    ]
+                ]
+            ],
+            [
+                127792,
+                [
+                    [
+                        "Camera Bop",
+                        "1000000",
+                        "0.1"
+                    ]
+                ]
+            ],
+            [
+                127792,
+                [
+                    [
+                        "Change Character",
+                        "1",
+                        "garfield-sad-falling"
+                    ]
+                ]
+            ],
+            [
+                127792,
+                [
+                    [
+                        "Camera Flash",
+                        "-16777216",
+                        "camGame"
+                    ]
+                ]
+            ],
+            [
+                152727,
+                [
+                    [
+                        "Camera Bop",
+                        "4",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                174545,
+                [
+                    [
+                        "Camera Movement",
+                        "0",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                180779,
+                [
+                    [
+                        "Camera Movement",
+                        "1",
+                        "1"
+                    ]
+                ]
+            ],
+            [
+                187012,
+                [
+                    [
+                        "Camera Movement",
+                        "0",
+                        "0"
+                    ]
+                ]
+            ],
+            [
+                193246,
+                [
+                    [
+                        "Camera Movement",
+                        "1",
+                        "1"
+                    ]
+                ]
+            ]
+        ]
+    }
+}

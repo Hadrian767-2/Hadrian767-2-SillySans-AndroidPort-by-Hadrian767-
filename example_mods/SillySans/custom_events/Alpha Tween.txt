@@ -1,0 +1,6 @@
+Tween the alpha of something
+
+v1: tween name, object name
+v2: value, dur, ease type
+
+no quotation marks!

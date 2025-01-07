@@ -1,0 +1,2 @@
+ value1 is the name of your video in mods/videos
+ value2 can be 'Game', 'HUD', or 'Other'

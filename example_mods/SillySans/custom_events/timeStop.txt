@@ -1,0 +1,4 @@
+value 1:
+
+stop (stops all animations on gf and bf)
+resume (resumes all animations on gf and bf)

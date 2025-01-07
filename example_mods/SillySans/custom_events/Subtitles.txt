@@ -1,0 +1,4 @@
+this takes no effort to make
+
+v1: text
+v2: duration

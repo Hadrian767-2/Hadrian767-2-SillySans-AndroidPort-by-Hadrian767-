@@ -1,0 +1,3 @@
+basically the shake screen event without a timer
+
+v1: shake amount (use the event again to stop it)

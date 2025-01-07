@@ -1,0 +1,2 @@
+V1: 1=fully appear, 0=fully disapear
+V2: how long it takes to fade In/Out in seconds

@@ -1,0 +1,223 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				88,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "madsingRIGHT",
+			"indices": [],
+			"name": "madright"
+		},
+		{
+			"offsets": [
+				44,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "madsingDOWN",
+			"indices": [],
+			"name": "maddown"
+		},
+		{
+			"offsets": [
+				48,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "madsingUP",
+			"indices": [],
+			"name": "madup"
+		},
+		{
+			"offsets": [
+				107,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "madsingLEFT",
+			"indices": [],
+			"name": "madleft"
+		},
+		{
+			"offsets": [
+				-5,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "red_eye",
+			"indices": [],
+			"name": "red_eye"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "racistidle",
+			"indices": [],
+			"name": "racistidle"
+		},
+		{
+			"offsets": [
+				53,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "racistleft"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "racistdown"
+		},
+		{
+			"offsets": [
+				-6,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "racistup"
+		},
+		{
+			"offsets": [
+				39,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "racistright"
+		},
+		{
+			"offsets": [
+				-51,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-50,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "eye",
+			"indices": [],
+			"name": "eye"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				52
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				55
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				49
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				49
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "madidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				49
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "racistidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "voiceline",
+			"indices": [],
+			"name": "voiceline"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/pepsus",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "Kinemorto",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		85,
+		195
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 5,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

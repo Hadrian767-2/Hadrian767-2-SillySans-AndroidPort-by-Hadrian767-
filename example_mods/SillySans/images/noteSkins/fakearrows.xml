@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fakearrows.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="red0000" x="0" y="168" width="155" height="161" frameX="-1" frameY="1" frameWidth="155" frameHeight="161"/>
+	<SubTexture name="purple0000" x="322" y="0" width="155" height="161" frameX="1" frameY="1" frameWidth="155" frameHeight="161"/>
+	<SubTexture name="blue0000" x="163" y="0" width="159" height="165" frameX="2" frameY="2" frameWidth="155" frameHeight="161"/>
+	<SubTexture name="green0000" x="0" y="0" width="163" height="168" frameX="2" frameY="1" frameWidth="159" frameHeight="165"/>
+</TextureAtlas>

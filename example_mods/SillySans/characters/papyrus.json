@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-8
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Papyrus Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Papyrus Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-139
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Papyrus Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				180
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Papyrus Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Papyrus Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Papyrus",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "papyrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		222,
+		89,
+		51
+	],
+	"camera_position": [
+		110,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

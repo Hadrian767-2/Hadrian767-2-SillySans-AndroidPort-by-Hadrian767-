@@ -1,0 +1,5 @@
+function opponentNoteHit()
+    if getHealth() > 1 then
+        addHealth(-1)
+    end
+end

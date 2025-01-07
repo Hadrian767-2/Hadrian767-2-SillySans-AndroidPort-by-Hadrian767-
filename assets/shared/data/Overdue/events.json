@@ -1,0 +1,1176 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Section Zoom",
+						"0.5",
+						"0.55"
+					]
+				]
+			],
+			[
+				20210.5263157895,
+				[
+					[
+						"Hide HUD",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				20526.3157894737,
+				[
+					[
+						"Cam Speed",
+						"2",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"-350",
+						"500"
+					],
+					[
+						"Cam Zoom",
+						"0.6",
+						"0.3, quintInOut"
+					]
+				]
+			],
+			[
+				21394.7368421053,
+				[
+					[
+						"Cam Zoom",
+						"0.5",
+						"0.3, quintIn"
+					],
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21710.5263157895,
+				[
+					[
+						"Change Character",
+						"bf",
+						"picodiag"
+					],
+					[
+						"Play Animation",
+						"dialog2",
+						"bf"
+					],
+					[
+						"Cam Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				21789.4736842105,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"dad"
+					]
+				]
+			],
+			[
+				22026.3157894737,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"dad"
+					]
+				]
+			],
+			[
+				22263.1578947368,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"dad"
+					]
+				]
+			],
+			[
+				22421.0526315789,
+				[
+					[
+						"Subtitles",
+						"What the FUCK is that thing!?",
+						"1.5"
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"dad"
+					]
+				]
+			],
+			[
+				22736.8421052632,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"dad"
+					]
+				]
+			],
+			[
+				22973.6842105263,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"dad"
+					]
+				]
+			],
+			[
+				23289.4736842105,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"dad"
+					]
+				]
+			],
+			[
+				23526.3157894737,
+				[
+					[
+						"Play Animation",
+						"Hey",
+						"dad"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luigi-toolate"
+					],
+					[
+						"Change Character",
+						"bf",
+						"pico"
+					],
+					[
+						"Hide HUD",
+						"0.5",
+						""
+					],
+					[
+						"Section Zoom",
+						"0.4",
+						""
+					],
+					[
+						"Song Name",
+						"Overdue",
+						"FriedFrick ft. Sandi"
+					],
+					[
+						"Window Name",
+						"Friday Night Funkin': Mario's Madness | Overdue | FriedFrick ft. Sandi",
+						""
+					],
+					[
+						"Change Pause Desc",
+						"desc2",
+						""
+					]
+				]
+			],
+			[
+				25263.1578947368,
+				[
+					[
+						"Song Name",
+						"me lol",
+						""
+					],
+					[
+						"Window Name",
+						"Friday Night Funkin': Mario's Madness | Overdue | FriedFrick ft. Sandi | Coding: kornelbut",
+						""
+					]
+				]
+			],
+			[
+				26526.3157894737,
+				[
+					[
+						"Song Name",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42947.3684210526,
+				[
+					[
+						"Change Character",
+						"bf",
+						"picodiag"
+					],
+					[
+						"Play Animation",
+						"dialog1",
+						"bf"
+					],
+					[
+						"Subtitles",
+						"Die Motherfucker!",
+						"1.3"
+					]
+				]
+			],
+			[
+				44131.5789473684,
+				[
+					[
+						"Change Character",
+						"bf",
+						"pico"
+					]
+				]
+			],
+			[
+				64421.0526315789,
+				[
+					[
+						"Darkness",
+						"",
+						""
+					],
+					[
+						"Shake HUD",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82105.2631578947,
+				[
+					[
+						"Darkness",
+						"",
+						""
+					],
+					[
+						"Shake HUD",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83368.4210526315,
+				[
+					[
+						"Camera Follow Pos",
+						"550",
+						"500"
+					],
+					[
+						"Section Zoom",
+						"",
+						"0.45"
+					]
+				]
+			],
+			[
+				84157.894736842,
+				[
+					[
+						"Cam Zoom",
+						"1.2",
+						"0.7, sineInOut"
+					]
+				]
+			],
+			[
+				84473.6842105262,
+				[
+					[
+						"Progress Overdue",
+						"meat",
+						""
+					]
+				]
+			],
+			[
+				84631.5789473683,
+				[
+					[
+						"Cam Zoom",
+						"0.35",
+						"1, sineOut"
+					],
+					[
+						"Section Zoom",
+						"0.35",
+						"0.4"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109894.736842105,
+				[
+					[
+						"Section Zoom",
+						"0.25",
+						"0.25"
+					]
+				]
+			],
+			[
+				130105.263157895,
+				[
+					[
+						"Section Zoom",
+						"0.35",
+						"0.4"
+					]
+				]
+			],
+			[
+				136421.052631579,
+				[
+					[
+						"Alpha Tween",
+						"gf, gf",
+						"0.6, 7, linear"
+					],
+					[
+						"Alpha Tween",
+						"marioIcon, marioIcon",
+						"0.6, 7, linear"
+					],
+					[
+						"Cam Speed",
+						"0.3",
+						""
+					],
+					[
+						"Cam Zoom",
+						"0.5",
+						"6, quintInOut"
+					],
+					[
+						"Section Zoom",
+						"0.35",
+						"0.5"
+					]
+				]
+			],
+			[
+				140210.526315789,
+				[
+					[
+						"Cam Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				140921.052631579,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				141078.947368421,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				142500,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				142578.947368421,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				142657.894736842,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				143447.368421053,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				143526.315789474,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				143605.263157895,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				144710.526315789,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				145973.684210526,
+				[
+					[
+						"Play Animation",
+						"singLeft",
+						"gf"
+					]
+				]
+			],
+			[
+				146052.631578947,
+				[
+					[
+						"Play Animation",
+						"singLeft",
+						"gf"
+					]
+				]
+			],
+			[
+				146131.578947368,
+				[
+					[
+						"Play Animation",
+						"singLeft",
+						"gf"
+					]
+				]
+			],
+			[
+				146289.473684211,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				146368.421052632,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				147236.842105263,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				147315.789473684,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				147394.736842105,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				147552.631578947,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				147631.578947368,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				148500,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				148578.947368421,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				148657.894736842,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				149131.578947368,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				149210.526315789,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				149289.473684211,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				150394.736842105,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				150473.684210526,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				150552.631578947,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				150631.578947368,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				150710.526315789,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				150789.473684211,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				150868.421052632,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				150947.368421053,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				151026.315789474,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				151105.263157895,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				151184.210526316,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				151263.157894737,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				151342.105263158,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				151421.052631579,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				151500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				162710.52631579,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				162789.473684211,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				162868.421052632,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				163973.684210526,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				164052.631578948,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				164131.578947369,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					],
+					[
+						"Progress Overdue",
+						"fade",
+						""
+					]
+				]
+			],
+			[
+				165236.842105263,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				165315.789473684,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				165394.736842105,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				169815.789473684,
+				[
+					[
+						"Section Zoom",
+						"0.4",
+						""
+					],
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				170131.578947369,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				170368.421052632,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				170526.315789474,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				170605.263157895,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				170684.210526316,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					],
+					[
+						"Change Character",
+						"bf",
+						"picodiag"
+					],
+					[
+						"Play Animation",
+						"dialog3",
+						"bf"
+					],
+					[
+						"Subtitles",
+						"Son of a bitch!",
+						"1"
+					],
+					[
+						"Alpha Tween",
+						"marioIcon, marioIcon",
+						"0, 1, linear"
+					]
+				]
+			],
+			[
+				170763.157894737,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				170842.105263158,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				170921.052631579,
+				[
+					[
+						"Play Animation",
+						"fade",
+						"gf"
+					]
+				]
+			],
+			[
+				171078.947368421,
+				[
+					[
+						"Hide Ammo",
+						"",
+						""
+					]
+				]
+			],
+			[
+				171157.894736842,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				171473.684210527,
+				[
+					[
+						"Play Animation",
+						"Laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				171789.473684211,
+				[
+					[
+						"Progress Overdue",
+						"hallway",
+						""
+					],
+					[
+						"Set Property",
+						"gf.visible",
+						"false"
+					],
+					[
+						"Change Character",
+						"bf",
+						"pico_run"
+					],
+					[
+						"Camera Follow Pos",
+						"1000",
+						"300"
+					],
+					[
+						"Section Zoom",
+						"0.35",
+						""
+					],
+					[
+						"Shake HUD",
+						"2",
+						""
+					],
+					[
+						"Change Pause Desc",
+						"desc3",
+						""
+					]
+				]
+			],
+			[
+				173052.631578948,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				212210.52631579,
+				[
+					[
+						"Shake HUD",
+						"",
+						""
+					]
+				]
+			],
+			[
+				213473.684210527,
+				[
+					[
+						"Section Zoom",
+						"",
+						"0.6"
+					]
+				]
+			],
+			[
+				213868.421052632,
+				[
+					[
+						"Play Animation",
+						"dialog1",
+						"bf"
+					],
+					[
+						"Subtitles",
+						"ASSHOLE!",
+						"1"
+					]
+				]
+			],
+			[
+				214736.842105264,
+				[
+					[
+						"Set Property",
+						"camGame.visible",
+						"false"
+					],
+					[
+						"Set Property",
+						"camHUD.visible",
+						"false"
+					]
+				]
+			]
+		]
+	}
+}

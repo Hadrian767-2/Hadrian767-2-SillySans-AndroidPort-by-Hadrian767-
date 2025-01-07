@@ -1,0 +1,2 @@
+value1: color (DEFAULT WHITE)
+value2: time (DEFAULT 0.5)

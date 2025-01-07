@@ -1,0 +1,3 @@
+value1: true or false
+
+value2: 0 for everyBeat, 2 for every 2 beats, etc.

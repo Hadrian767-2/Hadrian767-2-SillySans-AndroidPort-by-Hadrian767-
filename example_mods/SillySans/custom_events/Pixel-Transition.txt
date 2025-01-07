@@ -1,0 +1,1 @@
+Value1: "in" to start pixelization, out/anything else, to go back to normal

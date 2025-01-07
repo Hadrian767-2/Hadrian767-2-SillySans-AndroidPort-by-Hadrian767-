@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle",
+	"image": "idle",
+	"position": [
+		0,
+		-80
+	],
+	"scale": 1,
+	"confirm_anim": "idle"
+}

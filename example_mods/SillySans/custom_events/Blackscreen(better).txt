@@ -1,0 +1,7 @@
+Value 1: Start/Stop Event
+	Mark this Value with 1 to make it visible
+	Mark this Value with 0 to make it go away
+
+Value 2: Fade In/Out Speed
+	Mark this Value with the speed at which you want
+	the blackout to occur. (Speed is measured in seconds)

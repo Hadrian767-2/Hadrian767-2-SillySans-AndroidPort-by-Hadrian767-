@@ -1,0 +1,25 @@
+{
+	"storyName": "real",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fun",
+			[
+				180,
+				180,
+				180
+			]
+		]
+	],
+	"weekName": "Brotherly Fun"
+}

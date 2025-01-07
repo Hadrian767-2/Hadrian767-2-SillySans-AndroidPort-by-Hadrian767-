@@ -1,0 +1,6 @@
+changes camera zoom based on who's singing
+
+v1: opponent zoom
+v2: player zoom
+
+leave blank to not change

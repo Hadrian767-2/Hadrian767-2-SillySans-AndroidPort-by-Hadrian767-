@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-88,
+				40
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "idle",
+			"indices": [],
+			"name": "HSLookalikeDialogue0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				585,
+				27
+			],
+			"anim": "a",
+			"fps": 24,
+			"name": "Symbol 34 instance 1",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/shit sans1",
+	"position": [
+		-933,
+		-233
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		60,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.44,
+	"_editor_isPlayer": false
+}

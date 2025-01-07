@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="extraNote0.png">
+<SubTexture name="arrowLEFT0000" x="211" y="222" width="154" height="157" frameX="-1" frameY="0" frameWidth="155" frameHeight="158" />
+<SubTexture name="left confirm0000" x="0" y="0" width="221" height="222" frameX="34" frameY="34" frameWidth="230" frameHeight="232" />
+<SubTexture name="left confirm0001" x="0" y="222" width="211" height="213" frameX="29" frameY="29" frameWidth="230" frameHeight="232" />
+<SubTexture name="left confirm0002" x="221" y="0" width="218" height="217" frameX="32" frameY="32" frameWidth="230" frameHeight="232" />
+<SubTexture name="left confirm0003" x="221" y="0" width="218" height="217" frameX="32" frameY="32" frameWidth="230" frameHeight="232" />
+<SubTexture name="left confirm0004" x="211" y="222" width="154" height="157" frameX="-1" frameY="0" frameWidth="155" frameHeight="158" />
+</TextureAtlas>

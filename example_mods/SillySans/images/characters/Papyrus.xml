@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Papyrus_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Papyrus Down instância 10000" x="0" y="0" width="588" height="569" frameX="0" frameY="-7" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10001" x="0" y="0" width="588" height="569" frameX="0" frameY="-7" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10002" x="592" y="0" width="578" height="575" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10003" x="592" y="0" width="578" height="575" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10004" x="1174" y="0" width="578" height="582" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10005" x="1174" y="0" width="578" height="582" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10006" x="1756" y="0" width="578" height="583" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10007" x="1756" y="0" width="578" height="583" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10008" x="1756" y="0" width="578" height="583" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10009" x="1756" y="0" width="578" height="583" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10010" x="1756" y="0" width="578" height="583" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10011" x="1756" y="0" width="578" height="583" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10012" x="1756" y="0" width="578" height="583" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Down instância 10013" x="1756" y="0" width="578" height="583" frameX="0" frameY="0" frameWidth="588" frameHeight="583"/>
+	<SubTexture name="Papyrus Idle instância 10000" x="2338" y="0" width="626" height="663" frameX="0" frameY="-5" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10001" x="2338" y="0" width="626" height="663" frameX="0" frameY="-5" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10002" x="2968" y="0" width="626" height="663" frameX="0" frameY="-5" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10003" x="2968" y="0" width="626" height="663" frameX="0" frameY="-5" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10004" x="3598" y="0" width="626" height="664" frameX="0" frameY="-4" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10005" x="3598" y="0" width="626" height="664" frameX="0" frameY="-4" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10006" x="0" y="668" width="626" height="667" frameX="0" frameY="-1" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10007" x="0" y="668" width="626" height="667" frameX="0" frameY="-1" frameWidth="626" frameHeight="668"/>
+	<SubTexture name="Papyrus Idle instância 10008" x="630" y="668" width="626" height="668"/>
+	<SubTexture name="Papyrus Idle instância 10009" x="630" y="668" width="626" height="668"/>
+	<SubTexture name="Papyrus Idle instância 10010" x="1260" y="668" width="626" height="668"/>
+	<SubTexture name="Papyrus Idle instância 10011" x="1260" y="668" width="626" height="668"/>
+	<SubTexture name="Papyrus Idle instância 10012" x="1260" y="668" width="626" height="668"/>
+	<SubTexture name="Papyrus Idle instância 10013" x="1260" y="668" width="626" height="668"/>
+	<SubTexture name="Papyrus Left instância 10000" x="1890" y="668" width="710" height="635"/>
+	<SubTexture name="Papyrus Left instância 10001" x="1890" y="668" width="710" height="635"/>
+	<SubTexture name="Papyrus Left instância 10002" x="2604" y="668" width="705" height="635" frameX="-5" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10003" x="2604" y="668" width="705" height="635" frameX="-5" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10004" x="3313" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10005" x="3313" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10006" x="4021" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10007" x="4021" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10008" x="4021" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10009" x="4021" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10010" x="4021" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10011" x="4021" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10012" x="4021" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Left instância 10013" x="4021" y="668" width="704" height="635" frameX="-6" frameY="0" frameWidth="710" frameHeight="635"/>
+	<SubTexture name="Papyrus Right instância 10000" x="0" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10001" x="0" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10002" x="620" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10003" x="620" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10004" x="1240" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10005" x="1240" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10006" x="1860" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10007" x="1860" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10008" x="1860" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10009" x="1860" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10010" x="1860" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10011" x="1860" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10012" x="1860" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Right instância 10013" x="1860" y="1340" width="616" height="674"/>
+	<SubTexture name="Papyrus Up instância 10000" x="2480" y="1340" width="570" height="851"/>
+	<SubTexture name="Papyrus Up instância 10001" x="2480" y="1340" width="570" height="851"/>
+	<SubTexture name="Papyrus Up instância 10002" x="3054" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10003" x="3054" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10004" x="3628" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10005" x="3628" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10006" x="4202" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10007" x="4202" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10008" x="4202" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10009" x="4202" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10010" x="4202" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10011" x="4202" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10012" x="4202" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+	<SubTexture name="Papyrus Up instância 10013" x="4202" y="1340" width="570" height="849" frameX="0" frameY="-2" frameWidth="570" frameHeight="851"/>
+</TextureAtlas>

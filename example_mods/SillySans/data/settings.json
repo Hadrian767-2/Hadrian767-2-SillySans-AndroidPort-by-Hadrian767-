@@ -1,0 +1,27 @@
+[
+	{
+		"save": "bulletMechanic",
+		"name": "Bullet Notes",
+		"type": "bool",
+		"description": "Turn on/off the bullet notes",
+		"value": true
+	},
+	{
+		"save": "bulletMisses",
+		"name": "Bullet Miss Limit:",
+		"type": "string",
+		"description": "How many bullets you can miss. Turning it off will instead deal damage",
+		"value": "3",
+        "format": "%v",
+		"options": ["3", "2", "1", "0", "Off"]
+	},
+	{
+		"save": "pauseMusic",
+		"name": "Pause Music:",
+		"type": "string",
+		"description": "Music that will play when paused",
+		"value": "Random",
+        "format": "%v",
+		"options": ["Random", "Creative Exercise", "Monkey Song", "Mysterious"]
+	}
+]
